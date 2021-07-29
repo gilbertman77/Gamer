@@ -1,7 +1,7 @@
 	# Simple Pygame Program
 
   ## HOMEWORK
-  # 0) Get this file from Github
+  # 0) Get this file from Github (gilbertman77/Gamer)
   # 1) Fix X bounce
   # 2) Condense if statements for bouncing
   # 3) Make bounce slight random angle
@@ -15,7 +15,6 @@ scnHeight = 500
 scnWidth = 500
 	# Set up the drawing window
 screen = pygame.display.set_mode([scnWidth, scnHeight])
-
 
 
 xPos = 100
